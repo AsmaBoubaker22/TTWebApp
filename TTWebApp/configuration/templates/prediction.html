@@ -1,0 +1,157 @@
+{% extends "theme.html" %}
+
+{% block title %}Predictions{% endblock %}
+
+{% block content %}
+    <h2 align="center">Your Next 24hrs Usage Prediction</h2>
+    
+    <!-- Three boxes for predicted usage -->
+    <div class="balance-container">
+        <!-- Predicted SMS -->
+        <div class="balance-box">
+            <h3>Predicted SMS Usage</h3>
+            <p class="balance-value">{{ predicted_sms }} SMS</p> 
+        </div>
+
+        <!-- Predicted Calls -->
+        <div class="balance-box">
+            <h3>Predicted Calls Usage</h3>
+            <p class="balance-value">{{ predicted_calls }} Minutes</p> 
+        </div>
+    
+        <!-- Predicted Data -->
+        <div class="balance-box">
+            <h3>Predicted Data Usage</h3>
+            <p class="balance-value">{{ predicted_data }} MB</p>
+        </div>
+    </div>
+
+    <br>
+    <h2 align="center">Your Next 24hrs Recharge Prediction</h2>
+
+    <!-- Three boxes for predicted recharge -->
+    <div class="balance-container">
+         
+        <div class="balance-box">
+            <h3>Predicted Monetary Recharge</h3>
+            <p class="balance-value">{{ predicted_recharge_monetary }} TDN</p>
+        </div>
+        
+        <div class="balance-box">
+            <h3>Predicted Bonus Recharge</h3>
+            <p class="balance-value">{{ bonus_prediction }} TDN</p>
+        </div>
+        
+        <div class="balance-box">
+            <h3>Predicted Data Recharge</h3>
+            <p class="balance-value">{{ predicted_recharge_data }} MB</p>
+        </div>
+    </div>
+ 
+    <br>
+    <h2 align="center">Your Next 24hrs Balance Prediction</h2>
+    <div class="balance-container">
+        
+        <div class="balance-box">
+            <h3>Predicted Monetary Balance</h3>
+            <p class="balance-value">{{ predicted_balance_monetary }} TDN</p>
+        </div>
+        
+        <div class="balance-box">
+            <h3>Predicted Bonus Balance</h3>
+            <p class="balance-value">{{ predicted_balance_bonus }} TDN</p>
+        </div>
+        
+        <div class="balance-box">
+            <h3>Predicted Data Balance</h3>
+            <p class="balance-value">{{ predicted_balance_data }} MB</p>
+        </div>
+    </div>
+
+    <br>
+    <h3 align="center">According to you Predictions, these are the recommended plans to not fall short of data and money by the end of the next week:</h3>
+    <br>
+    <div align="center">
+    {% if best_monetary_plan %}
+    <div class="balance-box" style="display: inline-block;">
+        <h4>Recommended Monetary Plan:</h4>
+        <p><strong>Price:</strong> {{ best_monetary_plan.price }} TDN</p>
+        <p><strong>Recharge Amount:</strong> {{ best_monetary_plan.rechargeAmount }} TDN</p>
+        <p><strong>Validity:</strong> {{ best_monetary_plan.rechargeExpDays }} days</p>
+    </div>
+    {% else %}
+        <p>No suitable monetary plan found.</p>
+    {% endif %}
+
+    {% if best_data_plan %}
+    <div class="balance-box" style="display: inline-block;">
+        <h4>Recommended Data Plan:</h4>
+        <br>
+        <p><strong>Data Amount:</strong> {{ best_data_plan.dataAmountMB }} MB</p>
+        <p><strong>Price:</strong> {{ best_data_plan.price }} TDN</p>
+        <p><strong>Validity:</strong> {{ best_data_plan.expDays }} days</p>
+    </div>
+    {% else %}
+        <p>No suitable data plan found.</p>
+    {% endif %}
+    </div>
+
+    <!-- statistics -->
+    <br>
+    <h3 align="center">Statistical Insights</h3>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-2">
+            <div class="stat-box">
+                <h5 class="green-title">Avg. Daily Calls (mins)</h5>
+                <p><strong>Mean:</strong> {{ daily_stats['calls_mean'] | round(3) }}</p>
+                <p><strong>Std:</strong> {{ daily_stats['calls_std'] | round(3) }}</p>
+                <p><strong>Median:</strong> {{ daily_stats['calls_median'] | round(3) }}</p>
+                <p><strong>Mode:</strong> {{ daily_stats['calls_mode'] | round(3) }}</p>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="stat-box">
+                <h5 class="green-title">Avg. Daily SMS Count</h5>
+                <p><strong>Mean:</strong> {{ daily_stats['sms_mean'] | round(3) }}</p>
+                <p><strong>Std:</strong> {{ daily_stats['sms_std'] | round(3) }}</p>
+                <p><strong>Median:</strong> {{ daily_stats['sms_median'] | round(3) }}</p>
+                <p><strong>Mode:</strong> {{ daily_stats['sms_mode'] | round(3) }}</p>
+            </div>
+        </div> 
+        <div class="col-md-2">
+            <div class="stat-box">
+                <h5 class="green-title">Avg. Daily Data Usage (MB)</h5>
+                <p><strong>Mean:</strong> {{ daily_stats['data_usage_mean'] | round(3) }}</p>
+                <p><strong>Std:</strong> {{ daily_stats['data_usage_std'] | round(3) }}</p>
+                <p><strong>Median:</strong> {{ daily_stats['data_usage_median'] | round(3) }}</p>
+                <p><strong>Mode:</strong> {{ daily_stats['data_usage_mode'] | round(3) }}</p>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="stat-box">
+                <h5 class="green-title">Avg. Daily Recharge (Monetary)</h5>
+                <p><strong>Mean:</strong> {{ daily_recharge_stats['recharge_mean'] | round(3) }}</p>
+                <p><strong>Std:</strong> {{ daily_recharge_stats['recharge_std'] | round(3) }}</p>
+                <p><strong>Median:</strong> {{ daily_recharge_stats['recharge_median'] | round(3) }}</p>
+                <p><strong>Mode:</strong> {{ daily_recharge_stats['recharge_mode'] | round(3) }}</p>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="stat-box">
+                <h5 class="green-title">Avg. Daily Data Recharge (MB)</h5>
+                <p><strong>Mean:</strong> {{ daily_recharge_stats['data_recharge_mean'] | round(3) }}</p>
+                <p><strong>Std:</strong> {{ daily_recharge_stats['data_recharge_std'] | round(3) }}</p>
+                <p><strong>Median:</strong> {{ daily_recharge_stats['data_recharge_median'] | round(3) }}</p>
+                <p><strong>Mode:</strong> {{ daily_recharge_stats['data_recharge_mode'] | round(3) }}</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <br>
+    <form align="center" action="{{ url_for('blp.home') }}" method="get">
+        <button  type="submit" class="predict-button">Back to Home</button>
+    </form>
+
+{% endblock %}

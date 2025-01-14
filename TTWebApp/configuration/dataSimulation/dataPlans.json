@@ -1,0 +1,42 @@
+[
+    {
+        "price": 0.35,
+        "dataAmountMB": 75,
+        "expDays": 1
+    },
+    {
+        "price": 1.0,
+        "dataAmountMB": 220,
+        "expDays": 1
+    },
+    {
+        "price": 2.3,
+        "dataAmountMB": 500,
+        "expDays": 7
+    },
+    {
+        "price": 4.0,
+        "dataAmountMB": 800,
+        "expDays": 20
+    },
+    {
+        "price": 5.0,
+        "dataAmountMB": 1250,
+        "expDays": 30
+    },
+    {
+        "price": 10.0,
+        "dataAmountMB": 2800,
+        "expDays": 30
+    },
+    {
+        "price": 15.0,
+        "dataAmountMB": 6000,
+        "expDays": 30
+    },
+    {
+        "price": 20.0,
+        "dataAmountMB": 10000,
+        "expDays": 30
+    }
+]
