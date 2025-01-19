@@ -1,0 +1,1162 @@
+[
+    {
+        "userId": 1,
+        "rechargeAmount": 11.698216024190424,
+        "bonusAdded": 23.39643204838085,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-23",
+        "monetaryExpiryDate": "2024-12-26",
+        "bonusExpiryDate": "2024-12-24",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2017.498170061249,
+        "rechargeDate": "2024-12-17",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-18"
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 13.616812896492608,
+        "bonusAdded": 27.233625792985215,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-10",
+        "monetaryExpiryDate": "2025-10-06",
+        "bonusExpiryDate": "2025-05-09",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 19.977372782455678,
+        "bonusAdded": 39.954745564911356,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-27",
+        "monetaryExpiryDate": "2024-12-30",
+        "bonusExpiryDate": "2024-12-28",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2318.6495911363318,
+        "rechargeDate": "2024-12-06",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-05"
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 6.263051036186869,
+        "bonusAdded": 12.526102072373739,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-07",
+        "monetaryExpiryDate": "2025-03-23",
+        "bonusExpiryDate": "2025-02-08",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1804.7235163958653,
+        "rechargeDate": "2024-12-28",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-12"
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2277.8646574560676,
+        "rechargeDate": "2025-01-08",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-02-07"
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 10.045669032041797,
+        "bonusAdded": 20.091338064083594,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-23",
+        "monetaryExpiryDate": "2025-05-22",
+        "bonusExpiryDate": "2025-03-08",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 7.13418080629244,
+        "bonusAdded": 14.26836161258488,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-19",
+        "monetaryExpiryDate": "2025-01-18",
+        "bonusExpiryDate": "2025-01-03",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 16.53050825090366,
+        "bonusAdded": 33.06101650180732,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-28",
+        "monetaryExpiryDate": "2025-01-03",
+        "bonusExpiryDate": "2024-12-31",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1977.9865182277856,
+        "rechargeDate": "2024-12-21",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-05"
+    },
+    {
+        "userId": 1,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1898.2092348196445,
+        "rechargeDate": "2025-01-02",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-17"
+    },
+    {
+        "userId": 2,
+        "rechargeAmount": 8.293201369343056,
+        "bonusAdded": 24.879604108029167,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-08",
+        "monetaryExpiryDate": "2025-01-23",
+        "bonusExpiryDate": "2025-01-15",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 2,
+        "rechargeAmount": 5.5820714196240715,
+        "bonusAdded": 16.746214258872214,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-20",
+        "monetaryExpiryDate": "2025-01-04",
+        "bonusExpiryDate": "2024-12-27",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 2,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 158.86195236191912,
+        "rechargeDate": "2025-01-08",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-15"
+    },
+    {
+        "userId": 2,
+        "rechargeAmount": 3.681767872078839,
+        "bonusAdded": 11.045303616236517,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-15",
+        "monetaryExpiryDate": "2024-12-30",
+        "bonusExpiryDate": "2024-12-22",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1700.848471653805,
+        "rechargeDate": "2024-12-18",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-19"
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 19.879306075937613,
+        "bonusAdded": 99.39653037968807,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-08",
+        "monetaryExpiryDate": "2025-02-21",
+        "bonusExpiryDate": "2025-01-09",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 5.098041564658693,
+        "bonusAdded": 25.490207823293467,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-11",
+        "monetaryExpiryDate": "2025-06-10",
+        "bonusExpiryDate": "2025-03-27",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 23.138480884858573,
+        "bonusAdded": 115.69240442429287,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-08",
+        "monetaryExpiryDate": "2025-08-15",
+        "bonusExpiryDate": "2025-04-12",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 17.3747859934826,
+        "bonusAdded": 86.873929967413,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-11",
+        "monetaryExpiryDate": "2025-01-14",
+        "bonusExpiryDate": "2025-01-12",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1296.4589351889526,
+        "rechargeDate": "2024-12-15",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-30"
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 15.267158653711787,
+        "bonusAdded": 76.33579326855893,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-12",
+        "monetaryExpiryDate": "2025-10-08",
+        "bonusExpiryDate": "2025-05-11",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 11.61989780939863,
+        "bonusAdded": 58.09948904699315,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-02",
+        "monetaryExpiryDate": "2024-12-08",
+        "bonusExpiryDate": "2024-12-05",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1851.636097591435,
+        "rechargeDate": "2024-12-08",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-09"
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2617.2145418330433,
+        "rechargeDate": "2024-12-12",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-27"
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 21.51788035901371,
+        "bonusAdded": 107.58940179506854,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-02",
+        "monetaryExpiryDate": "2025-03-18",
+        "bonusExpiryDate": "2025-02-03",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1495.6076445085746,
+        "rechargeDate": "2024-12-10",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-17"
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 11.776432026063208,
+        "bonusAdded": 58.88216013031604,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-27",
+        "monetaryExpiryDate": "2025-03-12",
+        "bonusExpiryDate": "2025-01-28",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 14.381886618006053,
+        "bonusAdded": 71.90943309003026,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-01",
+        "monetaryExpiryDate": "2024-12-16",
+        "bonusExpiryDate": "2024-12-08",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2765.7986169391584,
+        "rechargeDate": "2025-01-01",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-16"
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 12.1431462903913,
+        "bonusAdded": 60.7157314519565,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-01",
+        "monetaryExpiryDate": "2025-01-07",
+        "bonusExpiryDate": "2025-01-04",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2587.4270906277457,
+        "rechargeDate": "2024-12-03",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-04"
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 26.137680368725952,
+        "bonusAdded": 130.68840184362978,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-23",
+        "monetaryExpiryDate": "2025-05-22",
+        "bonusExpiryDate": "2025-03-08",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 14.327309504018245,
+        "bonusAdded": 71.63654752009123,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-08",
+        "monetaryExpiryDate": "2025-01-07",
+        "bonusExpiryDate": "2024-12-23",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 14.57400927261708,
+        "bonusAdded": 72.8700463630854,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-15",
+        "monetaryExpiryDate": "2024-12-30",
+        "bonusExpiryDate": "2024-12-22",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 3,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2195.9779919278753,
+        "rechargeDate": "2024-12-08",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-23"
+    },
+    {
+        "userId": 4,
+        "rechargeAmount": 0.9257964004515582,
+        "bonusAdded": 1.8515928009031164,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-04",
+        "monetaryExpiryDate": "2025-02-17",
+        "bonusExpiryDate": "2025-01-05",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 4,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 164.3711056835432,
+        "rechargeDate": "2024-12-11",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-12"
+    },
+    {
+        "userId": 4,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 208.26606583065794,
+        "rechargeDate": "2024-12-09",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-16"
+    },
+    {
+        "userId": 4,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 169.85663580936486,
+        "rechargeDate": "2024-12-22",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-06"
+    },
+    {
+        "userId": 4,
+        "rechargeAmount": 8.564821939128402,
+        "bonusAdded": 17.129643878256804,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-31",
+        "monetaryExpiryDate": "2025-01-03",
+        "bonusExpiryDate": "2025-01-01",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 4,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 138.94232237188237,
+        "rechargeDate": "2025-01-09",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-02-08"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 12.935044751246616,
+        "bonusAdded": 129.35044751246616,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-12",
+        "monetaryExpiryDate": "2025-05-11",
+        "bonusExpiryDate": "2025-02-25",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1911.728478980818,
+        "rechargeDate": "2024-12-27",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-28"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 19.819615893603213,
+        "bonusAdded": 198.19615893603213,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-08",
+        "monetaryExpiryDate": "2025-01-14",
+        "bonusExpiryDate": "2025-01-11",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2864.7555676434363,
+        "rechargeDate": "2024-12-28",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-04"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 13.480154139861035,
+        "bonusAdded": 134.80154139861037,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-29",
+        "monetaryExpiryDate": "2025-01-01",
+        "bonusExpiryDate": "2024-12-30",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 26.292679543272072,
+        "bonusAdded": 262.9267954327207,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-30",
+        "monetaryExpiryDate": "2025-05-29",
+        "bonusExpiryDate": "2025-03-15",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1932.0988584548772,
+        "rechargeDate": "2024-12-14",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-15"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 15.991449170901994,
+        "bonusAdded": 159.91449170901996,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-20",
+        "monetaryExpiryDate": "2025-10-16",
+        "bonusExpiryDate": "2025-05-19",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2353.1548606632323,
+        "rechargeDate": "2025-01-04",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-02-03"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 12.584022499242003,
+        "bonusAdded": 125.84022499242003,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-16",
+        "monetaryExpiryDate": "2025-10-12",
+        "bonusExpiryDate": "2025-05-15",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1415.5478254088446,
+        "rechargeDate": "2024-12-26",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-10"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1731.8432040716593,
+        "rechargeDate": "2025-01-06",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-13"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2497.42242565295,
+        "rechargeDate": "2024-12-13",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-14"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1805.4726438681714,
+        "rechargeDate": "2025-01-04",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-19"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 9.96183758212911,
+        "bonusAdded": 99.6183758212911,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-15",
+        "monetaryExpiryDate": "2025-10-11",
+        "bonusExpiryDate": "2025-05-14",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2088.2723934289484,
+        "rechargeDate": "2025-01-03",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-18"
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 19.852201881485982,
+        "bonusAdded": 198.52201881485982,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-07",
+        "monetaryExpiryDate": "2024-12-13",
+        "bonusExpiryDate": "2024-12-10",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 5,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2457.9011801886754,
+        "rechargeDate": "2024-12-23",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-07"
+    },
+    {
+        "userId": 6,
+        "rechargeAmount": 4.430206213083144,
+        "bonusAdded": 31.011443491582007,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-08",
+        "monetaryExpiryDate": "2025-01-07",
+        "bonusExpiryDate": "2024-12-23",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 6,
+        "rechargeAmount": 4.2592546603940775,
+        "bonusAdded": 29.814782622758543,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-09",
+        "monetaryExpiryDate": "2025-02-08",
+        "bonusExpiryDate": "2025-01-24",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 6,
+        "rechargeAmount": 4.903434215469436,
+        "bonusAdded": 34.32403950828605,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-05",
+        "monetaryExpiryDate": "2025-02-04",
+        "bonusExpiryDate": "2025-01-20",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 10.7244888216934,
+        "bonusAdded": 21.4489776433868,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-09",
+        "monetaryExpiryDate": "2025-06-08",
+        "bonusExpiryDate": "2025-03-25",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1617.3736510983515,
+        "rechargeDate": "2024-12-10",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-17"
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 20.074750780914684,
+        "bonusAdded": 40.14950156182937,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-11",
+        "monetaryExpiryDate": "2025-10-07",
+        "bonusExpiryDate": "2025-05-10",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1092.2032280522749,
+        "rechargeDate": "2024-12-24",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-23"
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2178.5654538037265,
+        "rechargeDate": "2024-12-03",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-18"
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 11.5345970271727,
+        "bonusAdded": 23.0691940543454,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-20",
+        "monetaryExpiryDate": "2025-01-04",
+        "bonusExpiryDate": "2024-12-27",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 15.108219935536706,
+        "bonusAdded": 30.216439871073412,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-02",
+        "monetaryExpiryDate": "2024-12-05",
+        "bonusExpiryDate": "2024-12-03",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1811.5289761632098,
+        "rechargeDate": "2025-01-08",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-23"
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 19.682084472488185,
+        "bonusAdded": 39.36416894497637,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-24",
+        "monetaryExpiryDate": "2024-12-27",
+        "bonusExpiryDate": "2024-12-25",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2312.2496679051387,
+        "rechargeDate": "2024-12-18",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-19"
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 10.333163584861211,
+        "bonusAdded": 20.666327169722422,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-04",
+        "monetaryExpiryDate": "2025-09-30",
+        "bonusExpiryDate": "2025-05-03",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 10.62387371286847,
+        "bonusAdded": 21.24774742573694,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-27",
+        "monetaryExpiryDate": "2025-05-26",
+        "bonusExpiryDate": "2025-03-12",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2620.464763148871,
+        "rechargeDate": "2024-12-06",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-21"
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1299.9916820477965,
+        "rechargeDate": "2024-12-30",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-06"
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 21.537408890750157,
+        "bonusAdded": 43.074817781500315,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-01",
+        "monetaryExpiryDate": "2025-03-17",
+        "bonusExpiryDate": "2025-02-02",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 7,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2336.152279632754,
+        "rechargeDate": "2024-12-17",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-16"
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2008.4460335584708,
+        "rechargeDate": "2025-01-07",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-02-06"
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 22.01357217460861,
+        "bonusAdded": 88.05428869843443,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-10",
+        "monetaryExpiryDate": "2025-01-25",
+        "bonusExpiryDate": "2025-01-17",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 11.079396132901014,
+        "bonusAdded": 44.317584531604055,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-19",
+        "monetaryExpiryDate": "2024-12-22",
+        "bonusExpiryDate": "2024-12-20",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1837.933780034902,
+        "rechargeDate": "2025-01-09",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-02-08"
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2046.6401378901362,
+        "rechargeDate": "2025-01-03",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-04"
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 22.579435619235916,
+        "bonusAdded": 90.31774247694366,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-02",
+        "monetaryExpiryDate": "2025-05-01",
+        "bonusExpiryDate": "2025-02-15",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 14.992641064676276,
+        "bonusAdded": 59.9705642587051,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-08",
+        "monetaryExpiryDate": "2025-01-11",
+        "bonusExpiryDate": "2025-01-09",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 13.422634435641948,
+        "bonusAdded": 53.69053774256779,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-17",
+        "monetaryExpiryDate": "2024-12-20",
+        "bonusExpiryDate": "2024-12-18",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2006.6953532548725,
+        "rechargeDate": "2025-01-02",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-03"
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 3084.7894349570506,
+        "rechargeDate": "2025-01-02",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-17"
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1880.8766783896085,
+        "rechargeDate": "2025-01-08",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-09"
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2267.4198218509314,
+        "rechargeDate": "2024-12-01",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-02"
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 15.584614501564552,
+        "bonusAdded": 62.33845800625821,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-14",
+        "monetaryExpiryDate": "2025-10-10",
+        "bonusExpiryDate": "2025-05-13",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 26.240195768334424,
+        "bonusAdded": 104.9607830733377,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-05",
+        "monetaryExpiryDate": "2025-09-12",
+        "bonusExpiryDate": "2025-05-10",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 25.428929233743702,
+        "bonusAdded": 101.71571693497481,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-24",
+        "monetaryExpiryDate": "2024-12-27",
+        "bonusExpiryDate": "2024-12-25",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 8,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1893.0466524888864,
+        "rechargeDate": "2024-12-26",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-10"
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 15.533837764326824,
+        "bonusAdded": 77.66918882163412,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-19",
+        "monetaryExpiryDate": "2024-12-22",
+        "bonusExpiryDate": "2024-12-20",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2423.039363376734,
+        "rechargeDate": "2024-12-14",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-15"
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 2.1808304300091024,
+        "bonusAdded": 10.904152150045512,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-06",
+        "monetaryExpiryDate": "2024-12-21",
+        "bonusExpiryDate": "2024-12-13",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 18.14687622994679,
+        "bonusAdded": 90.73438114973396,
+        "dataAddedMB": 0,
+        "rechargeDate": "2025-01-06",
+        "monetaryExpiryDate": "2025-01-21",
+        "bonusExpiryDate": "2025-01-13",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 17.228878548436768,
+        "bonusAdded": 86.14439274218384,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-06",
+        "monetaryExpiryDate": "2025-05-05",
+        "bonusExpiryDate": "2025-02-19",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2036.309993460162,
+        "rechargeDate": "2024-12-11",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-10"
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1850.672598054021,
+        "rechargeDate": "2024-12-15",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-30"
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2721.550180355456,
+        "rechargeDate": "2024-12-31",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-15"
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2023.8693406366153,
+        "rechargeDate": "2024-12-17",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-01"
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1320.367436168931,
+        "rechargeDate": "2025-01-06",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-21"
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 2485.4508184302445,
+        "rechargeDate": "2024-12-16",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-23"
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 13.409323541252274,
+        "bonusAdded": 67.04661770626137,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-04",
+        "monetaryExpiryDate": "2025-02-17",
+        "bonusExpiryDate": "2025-01-05",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 1333.3760544172983,
+        "rechargeDate": "2024-12-01",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-02"
+    },
+    {
+        "userId": 9,
+        "rechargeAmount": 1.8075504992166014,
+        "bonusAdded": 9.037752496083007,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-03",
+        "monetaryExpiryDate": "2024-12-06",
+        "bonusExpiryDate": "2024-12-04",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 10,
+        "rechargeAmount": 6.777448916340227,
+        "bonusAdded": 40.664693498041366,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-06",
+        "monetaryExpiryDate": "2025-02-19",
+        "bonusExpiryDate": "2025-01-07",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 10,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 212.9176078432888,
+        "rechargeDate": "2024-12-24",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2024-12-31"
+    },
+    {
+        "userId": 10,
+        "rechargeAmount": 0,
+        "bonusAdded": 0,
+        "dataAddedMB": 203.34299906172004,
+        "rechargeDate": "2024-12-26",
+        "monetaryExpiryDate": null,
+        "bonusExpiryDate": null,
+        "dataExpiryDate": "2025-01-25"
+    },
+    {
+        "userId": 10,
+        "rechargeAmount": 2.732447402424101,
+        "bonusAdded": 16.394684414544606,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-13",
+        "monetaryExpiryDate": "2025-08-20",
+        "bonusExpiryDate": "2025-04-17",
+        "dataExpiryDate": null
+    },
+    {
+        "userId": 10,
+        "rechargeAmount": 6.6129949071642,
+        "bonusAdded": 39.6779694429852,
+        "dataAddedMB": 0,
+        "rechargeDate": "2024-12-29",
+        "monetaryExpiryDate": "2025-10-25",
+        "bonusExpiryDate": "2025-05-28",
+        "dataExpiryDate": null
+    }
+]
