@@ -1,0 +1,80 @@
+{% extends "theme.html" %} 
+{% block title %}Questions{% endblock %}
+{% block content %} 
+
+<h3 align="left">Ask a question:</h3>
+<form method="POST">
+    <textarea name="question" id="question" class="form-control"></textarea>
+    <br />
+    <div align="center">
+      <button type="submit" class="btn btn-primary">Submit question</button>
+    </div>
+  </form>
+
+<ul class="list-group list-group-flush" id="questions">
+  {% for question in user.questions %}
+    <li class="list-group-item">
+        <small class="text-muted">
+            Submitted on: {{ question.submittedAt.strftime('%Y-%m-%d %H:%M:%S') }}
+        </small>
+        <br />
+        <a href="{{ url_for('blp.answers', question_id=question.id) }}">{{ question.content }}</a>
+        <!-- please ignore the error that will arise here, the code works fine, it is a false positive-->
+        <button type="button" class="close" onClick="deleteQuestion({{ question.id }})"> 
+            <span aria-hidden="true">&times;</span>
+          </button>
+          
+          <script>
+            function deleteQuestion(questionId) {
+              fetch(`/api/questions/${questionId}`, {
+                method: 'DELETE',
+              })
+              .then(response => {
+                if (response.ok) {
+                  location.reload(); 
+                } else {
+                  alert('Failed to delete the question.');
+                }
+              })
+              .catch(error => console.error('Error:', error));
+            }
+          </script>          
+    </li>
+  {% endfor %}
+</ul>
+
+<br>
+
+<h3 align="left">Search for Questions:</h3>
+<form method="GET" action="{{ url_for('blp.questions') }}">
+    <input type="text" name="keyword" class="form-control" placeholder="Enter keywords to search">
+    <br />
+    <div align="center">
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+
+{% if keyword %}
+    <h4 align="left">Search Results:</h4>
+    <ul class="list-group list-group-flush" id="questions">
+        {% if questions %}
+            {% for question in questions %}
+                <li class="list-group-item">
+                    <small class="text-muted">
+                        Submitted on: {{ question.submittedAt.strftime('%Y-%m-%d %H:%M:%S') }} by {{ question.user.username }}
+                    </small>
+                    <br />
+                    <a href="{{ url_for('blp.answers', question_id=question.id) }}">{{ question.content }}</a>
+                    
+                </li>
+            {% endfor %}
+        {% else %}
+            <li class="list-group-item">
+                <small>No questions found with the provided keywords.</small>
+            </li>
+        {% endif %}
+    </ul>
+{% endif %}
+
+
+{% endblock %}

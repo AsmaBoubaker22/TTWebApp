@@ -1,0 +1,48 @@
+{% extends "theme.html" %} 
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    <h2 align="center">Insights</h2>
+
+    <div class="balance-container">
+        <!-- Monetary Balance -->
+        <div class="balance-box">
+            <h3>Monetary Balance</h3>
+            <p class="balance-value">{{ balance.monetaryBalance }} TDN</p>
+            {% if balance.monetaryExpiryDate %}
+                <p class="expiry-date">Expires: {{ balance.monetaryExpiryDate }}</p>
+            {% else %}
+                <p class="expiry-date">No Expiry</p>
+            {% endif %}
+        </div>
+
+        <!-- Bonus Balance -->
+        <div class="balance-box">
+            <h3>Bonus Balance</h3>
+            <p class="balance-value">{{ balance.bonusBalance }} TDN</p>
+            {% if balance.bonusExpiryDate %}
+                <p class="expiry-date">Expires: {{ balance.bonusExpiryDate }}</p>
+            {% else %}
+                <p class="expiry-date">No Expiry</p>
+            {% endif %}
+        </div>
+
+        <!-- Data Balance -->
+        <div class="balance-box">
+            <h3>Mobile Data Balance</h3>
+            <p class="balance-value">{{ balance.dataBalanceMB }} MB</p>
+            {% if balance.dataExpiryDate %}
+                <p class="expiry-date">Expires: {{ balance.dataExpiryDate }}</p>
+            {% else %}
+                <p class="expiry-date">No Expiry</p>
+            {% endif %}
+        </div>
+    </div>
+    <br>
+     
+    <form align="center" action="{{ url_for('blp.predict') }}" method="post">
+        <button  type="submit" class="predict-button">Predict Your Future Balance</button>
+    </form>
+
+{% endblock %}

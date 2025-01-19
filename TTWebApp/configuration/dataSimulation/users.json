@@ -1,0 +1,43 @@
+[
+    {
+        "phoneNumber": "90000000",
+      "bonusPlan": 2
+    },
+        {
+        "phoneNumber": "90000001",
+      "bonusPlan": 3
+    },
+        {
+        "phoneNumber": "91234567",
+      "bonusPlan": 5
+    },
+        {
+        "phoneNumber": "90123456",
+      "bonusPlan": 2
+    },
+        {
+        "phoneNumber": "90012345",
+      "bonusPlan": 10
+    },
+        {
+        "phoneNumber": "90001234",
+      "bonusPlan": 7
+    },
+        {
+        "phoneNumber": "90000123",
+      "bonusPlan": 2
+    },
+        {
+        "phoneNumber": "90000012",
+      "bonusPlan": 4
+    },
+        {
+        "phoneNumber": "98765432",
+      "bonusPlan": 5
+    },
+        {
+        "phoneNumber": "98765430",
+      "bonusPlan": 6
+    }
+    ]
+    
